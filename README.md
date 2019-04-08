@@ -1,4 +1,10 @@
 # AI Nights Content - Beginner Track
+
+## Maastricht specific content
+Here is the slide deck used as an intro to Cognitive Services that was presented in record time: https://github.com/ilionx/AINights-cognitiveservices-workshop/blob/master/CognitiveServicesSlides.pdf
+
+These slides are part of a talk I have done regularly which can be reviewed on my YouTube channel here: https://www.youtube.com/watch?v=tFF8T_AqnBM&list=PLfbOp004UaYUfXXNsMMbUAzr2pR8nfGf2&index=6
+
 ## Workshop for Attendees
 
 ## Session Information 
